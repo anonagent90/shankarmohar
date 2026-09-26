@@ -24,7 +24,7 @@ const SITE_CONFIG = {
   /* REPLACE THIS: Internal page URL for the "Click to View" button.
      Options: /work.html  /posts.html  /case-studies.html  /insights.html
      Change this ONE value and ALL buttons update automatically. */
-  viewPageUrl: "/resume",
+  viewPageUrl: "/resume/",
 
   /* REPLACE THIS: Your form submission endpoint.
      Formspree example : "https://formspree.io/f/YOUR_FORM_ID"
