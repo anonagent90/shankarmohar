@@ -38,7 +38,7 @@ const SITE_CONFIG = {
   formProviderKey: "",
 
   email: "info@shankarmohar.com",
-  resumeUrl: "https://shankar-mycv.pages.dev/"
+  resumeUrl: "/resume/"
 };
 
 /* ============================================================
