@@ -1,6 +1,6 @@
 # Shankar Mohar — Personal Website
 
-**Domain:** https://ShankarMohar.com  
+**Domain:** https://shankarmohar.com  
 **Stack:** Pure HTML · CSS · Vanilla JavaScript — no build tools required.
 
 ---
