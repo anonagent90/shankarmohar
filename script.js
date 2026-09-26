@@ -19,7 +19,7 @@
 const SITE_CONFIG = {
   /* REPLACE THIS: Your WhatsApp number in international format without + or spaces
      Example for India +91 98765 43210 → "919876543210" */
-  whatsappNumber: "[INSERT_WHATSAPP_NUMBER]",
+  whatsappNumber: "+919594365550",
 
   /* REPLACE THIS: Internal page URL for the "Click to View" button.
      Options: /work.html  /posts.html  /case-studies.html  /insights.html
@@ -31,13 +31,13 @@ const SITE_CONFIG = {
      Web3Forms example : "https://api.web3forms.com/submit"
      Getform example   : "https://getform.io/f/YOUR_FORM_ID"
      Basin example     : "https://usebasin.com/f/YOUR_FORM_ID"  */
-  formEndpoint: "[INSERT_FORM_ENDPOINT]",
+  formEndpoint: "https://formspree.io/f/xrpbyozo",
 
   /* REPLACE THIS: Required by some providers (e.g., Web3Forms uses an access key).
      Leave as placeholder if your provider only needs an endpoint URL. */
-  formProviderKey: "[INSERT_FORM_PROVIDER_KEY]",
+  formProviderKey: "",
 
-  email: "info@ShankarMohar.com",
+  email: "info@shankarmohar.com",
   resumeUrl: "https://shankar-mycv.pages.dev/"
 };
 
